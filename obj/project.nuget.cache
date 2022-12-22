@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tr4PG0zZ8kHNV+wqP59LaGNUfERDXclfvC0UmhyY83QXs+Uk7vRjX7HbhYS1rqomM541UoaKhEWfe78lma2J0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\project1\\project1\\project1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
